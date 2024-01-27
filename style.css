@@ -1,0 +1,80 @@
+/* Reset some default styles */
+body, h1, h2, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+body { 
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+  color: #320dd8;
+  
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: rgba(255, 0, 0, 0.774)(0, 38, 255)(0, 140, 255);
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h2 {
+  color: #007BFF;
+}
+
+form {  
+  width:500px;
+  margin:20 auto;
+  margin-top: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+  color: #555;
+}
+
+input, button {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.button-link {
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+
+button {
+  background-color: #007BFF;
+  color: #fff;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+}
+
+th, td {
+  padding: 12px;
+  text-align: left;
+}
+
+th {
+  background-color: #007BFF;
+  color: #fff;
+}
+
+
