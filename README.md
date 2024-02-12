@@ -1,5 +1,8 @@
 PHP School Management System
-Welcome to the PHP School Management System repository! This web-based application is designed to streamline the management of various aspects of school administration, providing functionalities and modules tailored to meet the needs of educational institutions.
+
+Welcome to the PHP School Management System repository! 
+
+This web-based application is designed to streamline the management of various aspects of school administration, providing functionalities and modules tailored to meet the needs of educational institutions.
 
 Features
 1. Student Management:
